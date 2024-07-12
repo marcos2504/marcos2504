@@ -22,7 +22,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/marcos-ibarra-a227b21b1">
-    ![Linkedin: Marcos Ibarra](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Marcos Ibarra](https://img.shields.io/badge/-MarcosIbarra-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
 
 
